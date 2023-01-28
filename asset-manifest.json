@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/game-react/static/css/main.4e76230c.chunk.css",
+    "main.js": "/game-react/static/js/main.1e4ca300.chunk.js",
+    "main.js.map": "/game-react/static/js/main.1e4ca300.chunk.js.map",
+    "runtime-main.js": "/game-react/static/js/runtime-main.e4d55090.js",
+    "runtime-main.js.map": "/game-react/static/js/runtime-main.e4d55090.js.map",
+    "static/css/2.9595a587.chunk.css": "/game-react/static/css/2.9595a587.chunk.css",
+    "static/js/2.129a80b4.chunk.js": "/game-react/static/js/2.129a80b4.chunk.js",
+    "static/js/2.129a80b4.chunk.js.map": "/game-react/static/js/2.129a80b4.chunk.js.map",
+    "static/js/3.c196ed78.chunk.js": "/game-react/static/js/3.c196ed78.chunk.js",
+    "static/js/3.c196ed78.chunk.js.map": "/game-react/static/js/3.c196ed78.chunk.js.map",
+    "index.html": "/game-react/index.html",
+    "static/css/2.9595a587.chunk.css.map": "/game-react/static/css/2.9595a587.chunk.css.map",
+    "static/css/main.4e76230c.chunk.css.map": "/game-react/static/css/main.4e76230c.chunk.css.map",
+    "static/js/2.129a80b4.chunk.js.LICENSE.txt": "/game-react/static/js/2.129a80b4.chunk.js.LICENSE.txt",
+    "static/media/9zly_8ztc_210511.f30bf659.jpg": "/game-react/static/media/9zly_8ztc_210511.f30bf659.jpg",
+    "static/media/archers.382e773f.jpg": "/game-react/static/media/archers.382e773f.jpg",
+    "static/media/cavalry.bc9e04cf.jpg": "/game-react/static/media/cavalry.bc9e04cf.jpg",
+    "static/media/pikeman.f911dfd8.jpg": "/game-react/static/media/pikeman.f911dfd8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4d55090.js",
+    "static/css/2.9595a587.chunk.css",
+    "static/js/2.129a80b4.chunk.js",
+    "static/css/main.4e76230c.chunk.css",
+    "static/js/main.1e4ca300.chunk.js"
+  ]
+}
