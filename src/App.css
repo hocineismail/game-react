@@ -1,0 +1,16 @@
+.app {
+  min-height: 100vh;
+  background-image: url("https: //img.freepik.com/premium-vector/cute-archer-cartoon-character_257245-50.jpg?w=740");
+  /* display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; */
+}
+.body {
+    
+ 
+}
+.btn-fight {
+  border-radius: 15px;
+  margin: 20px;
+}

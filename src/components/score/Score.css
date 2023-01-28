@@ -1,0 +1,10 @@
+.score {
+  height: 100px;
+  padding-top: 20px;
+  border-radius: 15px;
+ 
+}
+.score div {
+  font-size: 30px;
+  color: black !important;
+}
